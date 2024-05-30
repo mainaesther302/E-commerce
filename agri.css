@@ -1,0 +1,104 @@
+/* Add your CSS styles here */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:white ;
+    padding: 20px;;
+    padding: 10px;
+    color: #343a40; ;
+
+
+}
+
+/* header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center; */
+.navbarLinks{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: #343a40;
+}
+
+/* nav {
+    background-color: #343a40;
+    padding: 10px;
+} */
+.navbarLinks nav ul {
+    list-style-type: none;
+}
+.navbarLinks nav ul li a {
+    text-decoration: none;
+}
+
+/* nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+} */
+
+
+
+
+main {
+    padding: 20px;
+    
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.product-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 200px;
+    margin: 1px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.product-item img {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+}
+
+.product-item button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}

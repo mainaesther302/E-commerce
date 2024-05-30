@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "productImage": "https://www.istockphoto.com/photo/bridal-image-gm836143212-136244027?searchscope=image%2Cfilm",
+      "productname": "Rose",
+      "productprice": 0,
+      "id": "1"
+    },
+    {
+      "productImage": "https://media.istockphoto.com/id/2035124259/photo/purple-lisianthus-flower-bloom-in-the-garden-dark-background.jpg?s=612x612&w=0&k=20&c=F2rMS3hNyXUlpjiH9CLRlKHeUb4Lg55J6WPkO06AJVQ=",
+      "productname": "Purple Rose",
+      "productprice": 300,
+      "id": "2"
+    },
+    {
+      "productImage": "https://media.istockphoto.com/id/2152395897/photo/a-portrait-of-a-beautiful-rose-bush-in-a-nature-reserve.jpg?s=612x612&w=0&k=20&c=q_SBqwAQZVifNRlfBtcm_mnVllCK8RhMQsaw_eazrnk=",
+      "productname": "pink Flower",
+      "productprice": 250,
+      "id": "3"
+    },
+    {
+      "productImage": "https://media.istockphoto.com/id/2147522590/photo/cute-red-cat-looking-funny-through-a-red-rose-flower-wreath-panoramic-image-with-copy-space.jpg?s=1024x1024&w=is&k=20&c=4TO3u3UppmzVESlKwKHDez9eh_KkgY5xF-FDdUieGrg=",
+      "productname": "circle Flowers",
+      "productprice": 3000,
+      "id": "4"
+    },
+    {
+      "productImage": "https://media.istockphoto.com/id/2154688965/photo/an-important-attribute-of-the-bride-bridal-bouquet.jpg?s=612x612&w=0&k=20&c=5VdZ_qy4OO79TLJi5qruQ5wa5PeuedCMd7MZlmwNLm0=",
+      "productname": "white Daisies",
+      "productprice": 450,
+      "id": "5"
+    },
+    {
+      "productImage": "https://www.istockphoto.com/vector/rose-isolated-on-white-gm598081494-102493377",
+      "productname": "Red Rosses",
+      "productprice": 725,
+      "id": "6"
+    },
+    {
+      "productImage": "https://www.istockphoto.com/photo/very-nice-young-woman-holding-beautiful-blossoming-bouquet-of-fresh-roses-eustoma-gm1165719971-320853981",
+      "productname": "Special Flowers",
+      "productprice": 7500,
+      "id": "7"
+    },
+    {
+      "productImage": "https://media.istockphoto.com/id/1059012410/photo/beautiful-nature-outdoors.jpg?s=612x612&w=0&k=20&c=IwLgTveZ2H0HMEqNSfwioEbVXB10D3qlVxqBsMHARkA=",
+      "productname": "Spring Flower",
+      "productprice": 325,
+      "id": "8"
+    },
+    {
+      "productImage": "https://www.istockphoto.com/photo/bridal-image-gm836143212-136244027?searchscope=image%2Cfilm",
+      "productname": "",
+      "productprice": 0,
+      "id": "9"
+    },
+    {
+      "productImage": "https://www.istockphoto.com/photo/bridal-image-gm836143212-136244027?searchscope=image%2Cfilm",
+      "productname": "",
+      "productprice": 0,
+      "id": "10"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@example.com",
+      "password": "123"
+    },
+    {
+      "id": "010c",
+      "username": "essymaina4",
+      "password": 123
+    },
+    {
+      "id": "c880",
+      "username": "jethro",
+      "email": "jethro@gmail.com",
+      "password": "rgrggdggrgfGHDGGGFGFG&*"
+    },
+    {
+      "id": "d4de",
+      "username": "jethro",
+      "email": "jethro@gmail.com",
+      "password": "rgrggdggrgfGHDGGGFGFG&*"
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123"
+    }
+  ]
+}
