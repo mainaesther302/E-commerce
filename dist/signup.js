@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const userName = document.getElementById("username").value.trim();
         const userEmail = document.getElementById("email").value.trim();
         const userPassword = document.getElementById("password").value.trim();
+        // Validate input fields
         if (!userName || !userEmail || !userPassword) {
             alert("All fields are required");
             return;
